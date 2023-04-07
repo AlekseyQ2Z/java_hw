@@ -11,8 +11,8 @@ public class hw3 {
         strings.add("my_string");
 
         System.out.println(strings);
-        // removeEvenNumber(strings); // [40, my_string]
-        removeIntegers(strings); // [string, my_string]
+        removeEvenNumber(strings); // [40, my_string]
+        // removeIntegers(strings); // [string, my_string]
         System.out.println(strings);
     }
 
